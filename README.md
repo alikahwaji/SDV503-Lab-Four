@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SDV503 Lab Two 👋</h1>
+<h1 align="center">Welcome to SDV503 Lab Four 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -48,45 +48,26 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab Two Practice 
+## :page_facing_up: Lab Four Practice 
 
-:arrow_right: `Create a folder name it src and in the folder create a file index.js`
+:arrow_right: `Answer the questions below in your journal.MD: `
 
-:arrow_right: `Create a new branch name it dev.`
+:arrow_right: `Q: Explain the JavaScript switch statement and provide an example with your explanation.`
 
-:arrow_right: `Install nodemon package and make sure you installed the latest version.`
+:arrow_right: `Q: What are the advantages & disadvantages of the JavaScript switch statements?`
 
-:arrow_right: `In the js file declare 4 variables using let keyword.`
+:arrow_right: `Q: What is the difference between if/else and switch statments?`
 
-:arrow_right: `Give each variable a name using camelCase style.`
+:arrow_right: `Q: Explain JavaScript loops with an example.`
 
-:arrow_right: `Assign a string value to each variable and they are:`
-* NMIT street address.
-* City.
-* Country.
-* Postcode.
+:arrow_right: `Q: what are the types of loops in javascript. Give one example for each type?`
 
-:arrow_right: `Using template strings print out the the following: `
-
-               NMIT address: 322 Hardy Street, Nelson, New Zealand, 7010
-
-
-
-:arrow_right: `In your journal file, write about var, let, and const keywords in JavaScript with examples and explain the difference between them.`
-
-:arrow_right: `Make sure you add, commit and push to dev branch.`
-
-:arrow_right: `Merge dev branch to master.`
-
-:arrow_right: `Check the questions in your journal file, and provide the answers in the same file.`
-
-:arrow_right: `Please check the resources section.`
 
 
 ## :books: Resources 
 
-|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|[Template Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)|
-|---|---|---|---|
+|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|
+|---|---|---|
 
 ## :loudspeaker: IMPORTANT NOTE
 ```diff
