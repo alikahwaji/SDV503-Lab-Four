@@ -50,7 +50,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Four Practice 
 
-:arrow_right: `Answer the questions below in your journal.MD: `
+:arrow_right: `Provide your answers for the questions below in your journal.md: `
 
 :arrow_right: `Q: Explain the JavaScript switch statement and provide an example with your explanation.`
 
